@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings at the Sessions-House in the Old Bayly on February the 28th, 1682, against Christopher Urats, George Boriskie, John Stern, the principle murtherers of Tho. Thin, Esq., who was shot in his coach in the Pall Mall on Feb. 12 with what relates to Count Charles John Koningsmark, lately apprehended in disguise at Graves-end, and against whom a Bill of Indictment was found as the first contriver of the bloody tragedy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25756</idno>
+            <idno type="STC">Wing A361</idno>
+            <idno type="STC">ESTC R285</idno>
+            <idno type="EEBO-CITATION">11776495</idno>
+            <idno type="OCLC">ocm 11776495</idno>
+            <idno type="VID">48946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48946)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings at the Sessions-House in the Old Bayly on February the 28th, 1682, against Christopher Urats, George Boriskie, John Stern, the principle murtherers of Tho. Thin, Esq., who was shot in his coach in the Pall Mall on Feb. 12 with what relates to Count Charles John Koningsmark, lately apprehended in disguise at Graves-end, and against whom a Bill of Indictment was found as the first contriver of the bloody tragedy.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Roger Evans,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing spells "Bayly" Baily.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vratz, Christopher, d. 1682.</term>
+               <term>Borodzycz, George, d. 1682.</term>
+               <term>Stern, John, d. 1682.</term>
+               <term>Thynne, Thomas, 1648-1682.</term>
+               <term>Trials (Homicide) --  England --  London.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48946:1" rendition="simple:additions"/>
+            <head>An ACCOUNT OF THE PROCEEDINGS AT THE Seſſions-Houſe IN THE OLD-BAYLY, <hi>On</hi> February <hi>the</hi> 28th. 1682.</head>
+            <head type="sub">Againſt <hi>Chriſtopher Urats, George Boriskie, John Stern,</hi> the principle Murtherers of <hi>Tho. Thin,</hi> Eſq; who was Shot in his Coach in the <hi>Pall Mall,</hi> on <hi>Feb. 12.</hi> With what relates to Count <hi>Charles John Koningſmark,</hi> lately appre<g ref="char:EOLhyphen"/>hended in diſguiſe at <hi>Graves-end,</hi> and againſt whom a Bill of Indictment was found, as the first contriver of the Bloody Tragedy.</head>
+            <p>ABout nine in the Morning, the Court being ſet, the Jury was Impannelled for the Trying of theſe Notorious Of<g ref="char:EOLhyphen"/>fenders, being called over were half Engliſh, and half Foreigners. The Priſoners were brought up by Order of Court, and ſeverally Arraigned for the Mur<g ref="char:EOLhyphen"/>ther, and demanded to Plead Guilty or not Guilty; as likewiſe <hi>Charles John Coningſmark,</hi> who was put upon the ſame Jury, he as well as the reſt having an Interpreter allowed him; when they had ſo Pleaded: and put themſelves upon God and their Country, the Jury were Sworn, and they ordered to look to their Charges. Whereup<g ref="char:EOLhyphen"/>on the Count made a Peremptory Exception againſt 17 or 18, but at laſt a Jury of Engliſh and Aliens were Sworn, and the Indictment Read, which was that <hi>George Borisky,</hi> had on <hi>Feb.</hi> 12. laſt, with a Muſ<g ref="char:EOLhyphen"/>quettoon, Charged with Pouder and Bullet, Shot and Killed, <hi>Thomas Thin,</hi> Eſq; and the ſaid <hi>Chriſtopher Urats,</hi> was aiding and aſſiſting in the ſame.</p>
+            <p>After which Sir <hi>Francis Withins</hi> opened the matter and manner of the Barbarous Murther, as likewiſe Sir <hi>Francis Winnington</hi> and Mr. <hi>Williams,</hi> Councel for the King, whereupon the Evidence were called,
+<pb facs="tcp:48946:2"/>and the firſt that were Sworn were two of Eſquire <hi>Thinn</hi>'s Men, who gave Evidence, That their Maſter having been in his Coach at the Counteſs of <hi>Nothumberland,</hi> and returning home, though the <hi>Pall Mall,</hi> on the day aforeſaid in the Evening, three perſons came riding up to the Coach, one ſtopping it, and another Firing into it, and then <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d with what haſt they could, and although purſuit was made after them, they could not be taken: Next the Examinations which were taken by Sir <hi>Iohn Risby</hi> and Mr. <hi>Bridgman</hi> were ſworn to by the ſaid Juſtices, who gave the ſubſtance of them as followeth. That <hi>Borisky</hi> had confeſſed he ſhot into the Coach at the command of <hi>Urats,</hi> and that <hi>Urats</hi> had confeſſed he went to compel Eſquire <hi>Thinn</hi> to fight him, and that for his affronts put upon Count <hi>Konningsmark,</hi> he de<g ref="char:EOLhyphen"/>ſired <hi>Stern</hi> and <hi>Forisky</hi> only to ſee fair play, ſaying that the latter fi<g ref="char:EOLhyphen"/>red without his Order, but it being proved fully, not only by their Examinations before the Juſtices, but likewiſe they in Court confeſ<g ref="char:EOLhyphen"/>ſed the ſame; the Council proceeded to prove that the Count was the Principal contriver of this Murther, whereupon one Mr. <hi>Hanſoy,</hi> Tutor to the Counts Brother was called, who gave Evidence, that he had entertained <hi>Borisky</hi> in his Service, but the <hi>Friday</hi> before the Murther, and that he had bought him a Sword and other Acoutre<g ref="char:EOLhyphen"/>ments for Horſemanſhip.</p>
+            <p>Dr. <hi>Frederick Harvey</hi> being Sworn, teſtified, That the Count was his Patient, and that he had a breaking out in his Breaſt, which cauſed him to diſguiſe himſelf, becauſe he would not be obliged to Drink or Sort himſelf with any Company. A Foot Boy of his was likewiſe Sworn; who teſtified, That <hi>Urats</hi> was commonly with his Maſter, and that the Night the Murder was done, he came thither, and the Count the next Morning fled, having ſhifted his Lodgings three or four times. The Sweed at <hi>Rotherith,</hi> at whoſe houſe he lay, was called, who gave Evidence, That he came to his Houſe, telling him he was in ſome Danger, deſiring to have ſome Change of Apparel, which he lent him, and the next day he hired a Skuller, and was 3 days Cruſing upon the River of <hi>Thames,</hi> between that and <hi>Graves-end.</hi> The next was Mr. <hi>Gibbons,</hi> and Mr. <hi>Kid,</hi> who took him, Their Evidence was, That they having Notice, from a perſon, that the Count abſconded at <hi>Rotherith,</hi> they got a Warrant and purſued him to <hi>Graves-end,</hi> where they had notice he was gone, and there ſeized him. That after various Diſcourſes, he ſaid, <hi>That this buſineſs might prove a ſtain to his blood, but that a brave Action in War might recover it.</hi> After which the Jury went out and conſidered the Evidence. When they returned, They found <hi>Urats, Borisky,</hi> and <hi>Stern,</hi> Guilty of <hi>Will<g ref="char:EOLhyphen"/>full Murder;</hi> but the Count is deferred till next Term. Whereupon the Court proceeded to give Judgment of Death, upon thoſe that were found Guilty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Roger Evans.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
